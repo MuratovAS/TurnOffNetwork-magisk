@@ -1,0 +1,6 @@
+id=com.MuratovAS.magisk.TurnOffNetwork
+name=Turn Off Network
+version=1.0
+versionCode=1
+author=MuratovAS
+description=Automatic turn off network during power on
